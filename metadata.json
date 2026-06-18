@@ -1,0 +1,6 @@
+{
+  "name": "NoteNova",
+  "description": "A fully functional mobile-optimized text editor inspired by the classic Windows Notepad, featuring direct file management, autosave recovery, advanced text searches, and customization options.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
